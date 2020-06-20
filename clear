@@ -1,0 +1,54 @@
+[33mcommit 682826087389d03f79d13c9efe82303166ecc1fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Naveen K Varghese <naveenkvarghese@gmail.com>
+Date:   Fri Jun 19 21:47:01 2020 -0700
+
+    2 text modified
+
+[33mcommit 7223c16265648ab85de0e6d2af7775bb9095be49[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Naveen K Varghese <naveenkvarghese@gmail.com>
+Date:   Fri Jun 19 11:22:18 2020 -0700
+
+    2ndmerge modi
+
+[33mcommit 9aabc3cc92b79811f3b27618115db296890edbf0[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: de72bd5 dbf73e6
+Author: Naveen K Varghese <naveenkvarghese@gmail.com>
+Date:   Fri Jun 19 11:07:50 2020 -0700
+
+    WIP on master: de72bd5 Feature test
+
+[33mcommit dbf73e6d32039a2f0dc350e047f046bff7a71f3a[m
+Author: Naveen K Varghese <naveenkvarghese@gmail.com>
+Date:   Fri Jun 19 11:07:50 2020 -0700
+
+    index on master: de72bd5 Feature test
+
+[33mcommit de72bd546b8dd340a591d599403ca1f172f444f5[m
+Author: Naveen K Varghese <naveenkvarghese@gmail.com>
+Date:   Fri Jun 19 10:33:22 2020 -0700
+
+    Feature test
+
+[33mcommit d7740e41b3e97c20644e722609887a4dbce0a889[m
+Author: Naveen K Varghese <naveenkvarghese@gmail.com>
+Date:   Fri Jun 19 10:12:07 2020 -0700
+
+    love
+
+[33mcommit 2c402711bafc37db365fccdf99fa7a9c04ad3c0b[m
+Author: Naveen K Varghese <naveenkvarghese@gmail.com>
+Date:   Fri Jun 19 09:19:38 2020 -0700
+
+    Link test first commit
+
+[33mcommit 9899e53b1fb203b7cf1691884ecb30744eafc910[m
+Author: Naveen K Varghese <naveenkvarghese@gmail.com>
+Date:   Fri Jun 19 06:14:02 2020 -0700
+
+    I added some messages
+
+[33mcommit 251c37137b8d3c28d87d116108c98fff9b0bd88b[m
+Author: Naveen K Varghese <naveenkvarghese@gmail.com>
+Date:   Fri Jun 19 05:50:38 2020 -0700
+
+    This is my first commit
